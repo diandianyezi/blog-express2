@@ -13,7 +13,7 @@ module.exports = {
         host: 'localhost',
         user: 'root',
         port: '3306',
-        password: '19931017zt',
+        password: 'zhangting1993',
         database: 'yezi'
     },
     sqlConnect: function (sql, sqlArr, callback) {
